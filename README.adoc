@@ -1,0 +1,15 @@
+= Shuttlecraft Tinyhouse image:https://img.shields.io/badge/License-MIT-yellow.svg[MIT License, link=https://opensource.org/licenses/MIT]
+
+The Shuttlecraft Tinyhouse is an open-source https://en.wikipedia.org/wiki/Tiny_house_movement[tiny house] designed to emulate the experience of living in a https://en.wikipedia.org/wiki/Shuttlecraft[shuttlecraft]. Inspired by futuristic spacefaring vehicles (s.a., the Star Trek https://memory-alpha.fandom.com/wiki/Runabout[Runabout]), the Shuttlecraft Tinyhouse is commissioned to explore alternative, affordable, and sustainable living solutions for modern households who dream of living among the stars :sparkles:
+
+== Layouts & Dimensions ==
+
+Layouts and dimensions for the house design are currently captured in plaintext documents, as to allow for design editing accessibility. 
+
+include::layout-topview-lowerdeck.txt[]
+
+include::layout-topview-upperdeck.txt[]
+
+include::layout-sideview-cutout.txt[]
+
+include::layout-frontview.txt[]
